@@ -1,5 +1,14 @@
 OUTPUT SCREENS
 <p>EASY,MEDIUM,HARD</p>
+<h3>Teatures Implemented:</h3>
+<p>1.Search For Recipe:You will get list of recipe matching with search query in result</p>
+<p>2.Get Random Recipe</p>
+<p>3.Add Recipe To your favorites</p>
+<p>4.Remove Recipe from your favorites</p>
+
+<p>All the features screens are attached below</p>
+
+
 
 
 ![Screenshot (63)](https://github.com/user-attachments/assets/4a335359-e902-46e7-bb2a-4457feeea479)
