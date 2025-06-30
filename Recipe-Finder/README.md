@@ -1,5 +1,5 @@
 OUTPUT SCREENS
-
+<p>EASY,MEDIUM,HARD<</p>
 
 
 ![Screenshot (63)](https://github.com/user-attachments/assets/4a335359-e902-46e7-bb2a-4457feeea479)
