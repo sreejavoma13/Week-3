@@ -1,4 +1,5 @@
 <h1>OUTPUT SCREENS & INSTRUCTIONS</h1>
+<p>EASY,MEDIUM</p>
 <h3>install Dependencies</h3>
 npm install
 <h3>Start the Server</h3>
